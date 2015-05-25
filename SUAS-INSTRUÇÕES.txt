@@ -1,2 +1,1 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Altere as constantes LOG_PATH e OUTPUT_PATH com o caminho dos arquivos de entrada e saÃ­da.
